@@ -2,3 +2,4 @@ Flask
 flask_cors
 openai
 python-dotenv
+gunicorn
