@@ -13,5 +13,5 @@ This Flask application serves as an API endpoint to generate Google Calendar URL
 ## Contact
 I am seeking internship or job opportunities. Please feel free to contact me at:
 
-**Email:** s1f102400103[at]iniad.org <br>
+**Email:** s3f102400103[at]iniad.org <br>
 Please replace `[at]` with `@` when sending an email.
