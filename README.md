@@ -19,5 +19,5 @@ Personal use is permitted. Please contact us if you wish to modify the program f
 ## Contact
 I am seeking internship or job opportunities. Please feel free to contact me at:
 
-**Email:** sf102400103[at]iniad.org <br>
+**Email:** s3f102400103[at]iniad.org <br>
 Please replace `[at]` with `@` when sending an email.
